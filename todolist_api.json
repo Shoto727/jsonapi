@@ -1,0 +1,112 @@
+{
+"data"=[
+    {
+      "id": 1,
+      "created_at": "2023-04-15",
+      "title": "Do laundry",
+      "desc": "All laundry except Jason's",
+      "due_date": "2023-04-16",
+      "tag": "",
+      "status": "Done"
+    },
+    {
+      "id": 2,
+      "created_at": "2023-04-16",
+      "title": "Groceries",
+      "desc": "Important - cakie mix and cherries + 2 week's groceries",
+      "due_date": "2023-04-17",
+      "tag": "URGENT",
+      "status": "Done"
+    },
+    {
+      "id": 3,
+      "created_at": "2023-04-16",
+      "title": "Complete costume",
+      "desc": "Ali's flower costumer + check for fit",
+      "due_date": "2023-04-20",
+      "tag": "URGENT",
+      "status": "Working"
+    },
+    {
+      "id": 4,
+      "created_at": "2023-04-17",
+      "title": "Pick up dry cleaning",
+      "desc": "three items to be picked up + pay due amount",
+      "due_date": "2023-04-19",
+      "tag": "",
+      "status": "Done"
+    },
+    {
+      "id": 5,
+      "created_at": "2023-04-18",
+      "title": "Starbucks",
+      "desc": "buy cake pop before picking up Ali from school",
+      "due_date": "2023-04-18",
+      "tag": "",
+      "status": "Working"
+    },
+    {
+      "id": 6,
+      "created_at": "2023-04-19",
+      "title": "Ali's homework",
+      "desc": "Math + science homework due",
+      "due_date": "2023-04-21",
+      "tag": "URGENT",
+      "status": "Open"
+    },
+    {
+      "id": 7,
+      "created_at": "2023-04-19",
+      "title": "Bake cookies",
+      "desc": "Chocolate chip and vanilla cookies",
+      "due_date": "2023-04-20",
+      "tag": "",
+      "status": "Working"
+    },
+    {
+      "id": 8,
+      "created_at": "2023-04-20",
+      "title": "Attic cleaning",
+      "desc": "Seperate important items and waste items for donation",
+      "due_date": "2023-04-22",
+      "tag": "",
+      "status": "Working"
+    },
+    {
+      "id": 9,
+      "created_at": "2023-04-20",
+      "title": "Mop kitchen floors",
+      "desc": "Try new cleaning liquid",
+      "due_date": "2023-04-21",
+      "tag": "",
+      "status": "Open"
+    },
+    {
+      "id": 10,
+      "created_at": "2023-04-20",
+      "title": "Oil change",
+      "desc": "Go to mechnaic's + remind him to check the side bump",
+      "due_date": "2023-04-25",
+      "tag": "URGENT",
+      "status": "Overdue"
+    },
+    {
+      "id": 11,
+      "created_at": "2023-04-21",
+      "title": "Bakery",
+      "desc": "Pick up cupcakes for bakesale",
+      "due_date": "2023-04-24",
+      "tag": "",
+      "status": "Overdue"
+    },
+    {
+      "id": 12,
+      "created_at": "2023-04-22",
+      "title": "Fix bathroom tap",
+      "desc": "Call plumber - number on the fridge",
+      "due_date": "2023-04-22",
+      "tag": "URGENT",
+      "status": "Overdue"
+    }
+  ]
+}
